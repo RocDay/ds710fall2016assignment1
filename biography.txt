@@ -1,4 +1,4 @@
-Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
+﻿Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 Rochelle Day
 I'm passionate about data and have always been interested in data analysis.  I work in Institutional Research and Planning at UW-W as a Business Intelligence Analyst, where I am able to deep-dive into analytics on a daily basis.  This program is perfect for enhancing my duties.
 I’ve done some Java, but regularly use JaveScript and SQL.  Historically, I’ve used COBOL, RPG, Compiled Basic.
@@ -6,3 +6,4 @@ Over this past summer, I took DS 705 the Data Statistics Course.
 Limited experience with R (DS 700 & DS705), but no experience with Python.
 To be able to create efficient code for conducting data analysis, which I can use in my job.  I’m also the Tableau (data visualizations) admin for my campus, which will allow me to integrate R/Python code into my dashboards.
 I’m a claustrophobic scuba-diver!  Means, when I see an area in which I’m weak – I go full throttle to try and overcome it!
+(think i got this)
